@@ -1,8 +1,8 @@
 # MIF
-Multivariate Iterative Filtering
+Multivariate Iterative Filtering (MIF)
 
 
-Iterative filtering (IF) is a non stationary signal decomposition technique. We have extented univariate IF for multivarite data or multichannel signal. 
+Iterative filtering (IF) is a non stationary signal decomposition technique. We have extented univariate IF for multivarite data or multichannel signal whih has been termed as Multivariate Iterative Filtering (MIF). 
 
 
 Reference:
